@@ -22,6 +22,9 @@
 
 -------------
 
+nvm use 22.16.0
+-------------
+
 [step : 요구사항 명세서 작성을 위한 추가 답변 -2]
 1. 카드 데이터
  - h2 db에 저장하고, db에 CRUD하기 위한 backend application을 spring boot로 구성해줘. 
