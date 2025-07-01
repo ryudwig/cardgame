@@ -169,6 +169,7 @@ local.properties
 *.ipr
 out/
 .idea_modules/
+.cursor/
 
 ### OS generated files ###
 *~
